@@ -1,3 +1,4 @@
 /.venv
 /OpenStrategy.code-workspace
 /StockStrategy/.vscode/
+/StockStrategy/str_event/str_earnings/src/__pycache__/
